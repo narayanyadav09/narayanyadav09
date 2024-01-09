@@ -1,0 +1,94 @@
+@media only screen and (max-width: 600px) {
+    .about_img {
+        width: 100%;
+    }
+    .about_img1_s {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .about_text {
+        max-width: 100%;
+    }
+    .aboutus{
+        display: block !important;
+    }
+    .popup_1{
+        display: block;
+    }
+    .services_part{
+        display: grid;
+        grid-template-columns: 45% 45%;
+        margin-bottom: 0;
+    }
+    .services_part_1{
+        margin-bottom: 15px;
+    }
+    .our_doctors21{
+        display: grid;
+        grid-template-columns: 45% 45%;
+       
+    }
+    .our_doctors2 {
+        margin-bottom: 15px;
+    }
+    .emergency {
+        padding: 30px 15px;
+    }
+    .appointment_part{
+        display: block;
+    }
+    .appointment_part_1_text h4{
+        font-size: 20px;
+    }
+    #footer{
+        display: grid;
+        grid-template-columns: 45% 45%;
+       margin: auto;
+    }
+    .appointment_part_1{
+        margin-bottom: 20px;
+    }
+    .appointment_part_1 img {
+        width: 100%;
+    }
+    .popup_1_dr {
+        margin-bottom: 15px;
+        max-width: 60%;
+    }
+   input{
+    margin-bottom: 10px
+   }
+   .appointment_part_1 {
+    width: 100%;
+   }
+   .our_doctors2_1_text{
+    margin-top: 15px;
+    text-align: start;
+   }
+   .navs{
+    flex-direction: column;
+   }
+   .navm ul{
+    flex-direction: column;
+   }
+
+   .navbar_1{
+    flex-direction: column;
+    display: none;
+   }
+   .navbar{
+    margin-top: 20px;
+    align-items: flex-start;
+   }
+   .hamburger{
+    display: block;
+}
+.newsletter input {
+    padding: 10px 92px 10px 20px;   
+}
+
+
+
+
+
+  }
